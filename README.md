@@ -1,5 +1,7 @@
-# Deadlock-avoidance-in-OS
-
+# Deadlock-avoidance-in-OS  
+Note: Input banker nằm trong file inputbanker.txt  
+      Input thuật toán nhận diện nằm trong file input.txt  
+=> Kết quả chạy đã có trong các file  
 # Thuật toán banker
 
 1. Work và Finish là hai mảng có độ dài m và n. Khởi tạo:  
